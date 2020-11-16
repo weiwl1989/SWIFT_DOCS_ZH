@@ -1,0 +1,12 @@
+{
+    "title": "Remote Mirrors",
+    "description": "This proposal describes a new implementation for nominal type metadata",
+    "language": "zh",
+    "license": "cc by nc sa 4.0",
+    "author": "wanglei",
+    "x_proofread": "",
+    "x_origin_author": "Remote Mirrors",
+    "x_origin_url": "https://github.com/apple/swift/blob/main/docs/proposals/RemoteMirrors.rst",
+    "x_origin_ctime": "8 jan 2017",
+    "structure.glossary": "GLOSSARY.md"
+  }
